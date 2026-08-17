@@ -131,3 +131,6 @@ Emotion + Confidence
 API Response
 ```
 
+Run Frontend:
+Steamlit: streamlit run app.py
+
